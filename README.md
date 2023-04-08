@@ -4,6 +4,7 @@ No. | Items | Date Updated
 --- | --- | ---
 1 | chatgpt API exploration | 16 March 2023
 2 | chatgpt image generation exploration | 24 March 2023
+3 | Personal chatgpt API exploration | 8 April 2023
 
 **What is Chatgpt?**
 
@@ -31,4 +32,9 @@ As shown in the documentation provided in the Openai webpage, The Images API pro
 3. Creating variations of an existing image
 
 Documentation --> https://platform.openai.com/docs/guides/images/language-specific-tips 
+
+**Personal chatgpt API exploration**
+
+Referenced from:
+https://www.youtube.com/watch?v=hcbBBcdKUAY
 
