@@ -5,6 +5,7 @@ No. | Items | Date Updated
 1 | chatgpt API exploration | 16 March 2023
 2 | chatgpt image generation exploration | 24 March 2023
 3 | Personal chatgpt API exploration | 8 April 2023
+4 | ChatGPT Prompt Engineering for Developers (Short Course) | 12 April 2023
 
 **What is Chatgpt?**
 
